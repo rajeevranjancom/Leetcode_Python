@@ -1,8 +1,8 @@
 """
 Premium question
 Non-dp version of edit distance
+Author: Rajeev Ranjan
 """
-__author__ = 'Daniel'
 
 
 class Solution(object):
