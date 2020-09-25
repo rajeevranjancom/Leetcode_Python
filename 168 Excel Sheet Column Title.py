@@ -10,8 +10,8 @@ For example:
     26 -> Z
     27 -> AA
     28 -> AB
+Author: Rajeev Ranjan
 """
-__author__ = 'Daniel'
 
 
 class Solution:
