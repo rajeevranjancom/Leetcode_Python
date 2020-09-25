@@ -1,10 +1,7 @@
 """
-Premium Question
+Author: Rajeev Ranjan
 """
 from collections import defaultdict
-
-__author__ = 'Daniel'
-
 
 class TwoSum(object):
     def __init__(self):
