@@ -6,8 +6,8 @@ pop() -- Removes the element on top of the stack.
 top() -- Get the top element.
 getMin() -- Retrieve the minimum element in the stack.
 Stack Data Structure
+Author: Rajeev Ranjan
 """
-__author__ = 'Danyang'
 
 
 class MinStack:
