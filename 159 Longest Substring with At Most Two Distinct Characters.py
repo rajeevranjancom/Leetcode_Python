@@ -1,11 +1,8 @@
 """
-Premium Question
+Author: Rajeev Ranjan
 """
+
 from collections import defaultdict
-
-__author__ = 'Daniel'
-
-
 class Solution(object):
     def lengthOfLongestSubstringTwoDistinct(self, s):
         """
