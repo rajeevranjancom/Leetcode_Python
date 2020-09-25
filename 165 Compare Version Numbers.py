@@ -10,8 +10,8 @@ second first-level revision.
 Here is an example of version numbers ordering:
 
 0.1 < 1.1 < 1.2 < 13.37
+Author: Rajeev Ranjan
 """
-__author__ = 'Daniel'
 
 
 class Solution:
