@@ -9,12 +9,10 @@ Suppose a sorted array is rotated at some pivot unknown to you beforehand.
 
 Find the minimum element.
 
-The array may contain duplicates.
+Author: Rajeev Ranjan
 """
+
 import sys
-
-__author__ = 'Danyang'
-
 
 class Solution(object):
     def findMin(self, A):
