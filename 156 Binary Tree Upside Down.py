@@ -1,7 +1,7 @@
 """
-Premium Question
+Author: Rajeev Ranjan
+
 """
-__author__ = 'Daniel'
 
 
 class TreeNode(object):
