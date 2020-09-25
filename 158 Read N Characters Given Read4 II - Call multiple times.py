@@ -1,7 +1,6 @@
 """
-Premium Question
+Author: Rajeev Ranjan
 """
-__author__ = 'Daniel'
 
 
 def read4(buf):
