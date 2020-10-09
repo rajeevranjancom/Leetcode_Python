@@ -1,6 +1,9 @@
 # leetcode_Python
 Leetcode Python Solution
 # copyRight@Rajeev Ranjan
+## Links:
+|      Title      | 
+|-----------------|
 | [https://www.python.org/doc/ (Documentation Releases by Version)] |
 | [https://www.python.org/downloads/ (Download the latest source release)]|
 | [https://docs.python.org/3/tutorial/ (The Python Tutorial)]
